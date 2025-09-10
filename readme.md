@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 my name is khan
+=======
+# THIS IS MY SECOND TRY TO COONECT A LOCAL REPO TO REMOTE REPO 
+>>>>>>> fe2
